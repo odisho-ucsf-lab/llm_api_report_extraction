@@ -77,4 +77,4 @@ The script logs its operations to a file specified in the config. The log level 
 
 ## Contact
 
-For questions or feedback, please open an issue in this repository or contact [your contact information or preferred method of contact].
+For questions or feedback, please open an issue in this repository or contact Aidan Pace (william.pace@ucsf.edu), (Andrew Liu) andrewliu928@gmail.com, Marvin Carlisle (marvin.carlisle@ucsf.edu), or Anobel Odishio (anobel.odisho@ucsf.edu).
