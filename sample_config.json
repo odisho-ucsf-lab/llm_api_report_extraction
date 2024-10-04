@@ -1,0 +1,12 @@
+{
+  "prompt_file": "",
+  "report_file": "",
+  "log_file": "",
+  "log_level": 1,
+  "output_dir": "",
+  "iterations": 1,
+  "endpoint":"",
+  "api-key": "",
+  "api_version": "",
+  "model":""
+}
