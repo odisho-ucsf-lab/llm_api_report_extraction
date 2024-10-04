@@ -1,0 +1,16 @@
+# Python 3.9
+
+# Core dependencies
+requests==2.26.0
+pyodbc==4.0.32
+
+# Standard library modules (no need to specify versions)
+# csv
+# json
+# os
+# logging
+# datetime
+# time
+
+# Note: The following are part of Python's standard library and don't need to be installed separately:
+# csv, json, os, logging, datetime, time
