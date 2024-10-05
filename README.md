@@ -93,7 +93,7 @@ Remember that the effectiveness of the data extraction depends on how well the p
 
 ## Acknowledgments
 
-This tool was developed as part of a UCSF research project: `Generative Artificial Intelligence Successfully Automates Data Extraction from Unstructured MRI Reports: Feasibility in Prostate Cancer Care`
+This tool was developed as part of a UCSF Department of Urology research project: `Generative Artificial Intelligence Successfully Automates Data Extraction from Unstructured MRI Reports: Feasibility in Prostate Cancer Care`
 
 ## Contact
 
